@@ -14,3 +14,6 @@ public class DistanceTest {
     Assert.assertEquals(p1.distance(p2), 9.0);
   }
 }
+/*
+Comment for commit
+ */
