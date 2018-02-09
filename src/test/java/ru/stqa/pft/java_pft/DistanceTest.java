@@ -15,5 +15,5 @@ public class DistanceTest {
   }
 }
 /*
-Comment for commit
+Comment for commit 2
  */
